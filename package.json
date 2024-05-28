@@ -1,0 +1,21 @@
+{
+  "name": "Categorize New Member",
+  "version": "1.0.0",
+  "description": "Categorize New Member kata performed by Barbara Beato",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "jest",
+    "test:watch": "jest --watchAll --coverage=true --verbose"
+  },
+  "repository": {
+    "type": "website",
+    "url": "https://www.codewars.com/kata/5502c9e7b3216ec63c0001aa/train/javascript"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "29.5.0"
+  }
+}
